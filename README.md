@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tugberk</h1>
 <h3 align="center">Junior Backend Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Java, Spring, Spring Boot**
-
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, React**
 
 - 📫 How to reach me **tugberkmustafa@gmail.com**
