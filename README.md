@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tugberk</h1>
-<h3 align="center">Junior Backend Developer from Turkey</h3>
+<h3 align="center">Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, React**
+- 🌱 I’m currently working **Java, Spring, Spring Boot**
 
 - 📫 How to reach me **tugberkmustafa@gmail.com**
 
